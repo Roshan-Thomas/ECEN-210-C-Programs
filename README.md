@@ -1,7 +1,7 @@
 # ECEN-210 C Repo <img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/>
 
 ## About 💻
-This repo is a collection of all the C files, which was done in the class of ECEN-210 by [Prof. Joseph Jean Boutros](http://www.josephboutros.org/). The repo is divided into files indicating the day that the C files were taught. 
+This repo is a collection of all the C files, which was done in the class of ECEN-210 by [Prof. Joseph Jean Boutros](http://www.josephboutros.org/) and Lab Files. The repo is organized into files indicating the day that the respective C files were taught. 
 
 ## How to Use
 Clone the repo locally by:
